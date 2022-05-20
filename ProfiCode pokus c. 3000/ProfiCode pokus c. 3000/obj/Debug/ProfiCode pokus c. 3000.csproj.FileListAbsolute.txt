@@ -1,0 +1,11 @@
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\bin\Debug\ProfiCode pokus c. 3000.exe.config
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\bin\Debug\ProfiCode pokus c. 3000.exe
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\bin\Debug\ProfiCode pokus c. 3000.pdb
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode pokus c. 3000.csproj.AssemblyReference.cache
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode pokus c. 3000.csproj.SuggestedBindingRedirects.cache
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode_pokus_c._3000.Form1.resources
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode_pokus_c._3000.Properties.Resources.resources
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode pokus c. 3000.csproj.GenerateResource.cache
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode pokus c. 3000.csproj.CoreCompileInputs.cache
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode pokus c. 3000.exe
+C:\Users\StulhoferP\source\repos\ProfiCode pokus c. 3000\ProfiCode pokus c. 3000\obj\Debug\ProfiCode pokus c. 3000.pdb
